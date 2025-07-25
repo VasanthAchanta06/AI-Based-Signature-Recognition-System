@@ -42,28 +42,28 @@ signature_recognition/
 ├── results/
 └── README.md
 
-Key Features:
+## Key Features:
 Offline signature verification using image preprocessing and ML.
 Feature extraction with OpenCV; classification using Scikit-learn.
 Evaluated with accuracy, precision, recall, and F1-score.
 Modular design; scalable for CNN and dynamic input integration.
 Applicable in banking, legal, and biometric systems.
 
-Evaluation Metrics:
+## Evaluation Metrics:
 Accuracy
 Precision
 Recall
 Confusion Matrix
 
-Results:
+## Results:
 The trained model achieved high accuracy in differentiating between genuine and forged signatures. The evaluation results show promising application in real-world authentication scenarios.
 
-Applications:
+## Applications:
 Banking and financial document authentication
 Legal document verification
 Biometric systems for secure access
 
-Future Work
+## Future Work
 Integration with online signature recognition (dynamic input)
 Application of CNN-based models for enhanced accuracy
 Development of a web-based interface using Flask or Streamlit
