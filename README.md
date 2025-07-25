@@ -72,17 +72,6 @@ Author
 Vasanth Achanta
 
 
-## Installation
 
-Install the required Python packages before running the project:
 
-```bash
-pip install numpy pandas matplotlib scikit-learn opencv-python
-```bash
-
-How to Run
-Prepare your dataset with subfolders: /genuine and /forged.
-Run preprocessing.py to extract features and save them as training data.
-Run model.py to train the classifier.
-Use evaluation.py to generate accuracy scores and confusion matrix.
 
